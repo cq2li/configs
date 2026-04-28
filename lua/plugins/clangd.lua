@@ -21,7 +21,6 @@ return {
             "--tweaks=-fno-modules,-fno-modules-codegen,-fno-modules-debuginfo,-fno-modules-cache-path,-fno-modules-disable-diagnostic-validation,-UCOMPILE_HEADERS",
             "--tweaks=-std=C++17,-ferror-limit=9999",
           },
-          root_dir = "/home/georgeli/memsql",
         },
       },
     },
