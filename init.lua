@@ -21,3 +21,4 @@ vim.api.nvim_create_autocmd("LspAttach", {
 })
 
 vim.g.autoformat = false
+vim.g.clipboard = 'osc52'
